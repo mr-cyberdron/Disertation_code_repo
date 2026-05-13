@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18e7d2bf-4c98-4e29-a98e-fccf74211d6f" name="Changes" comment="">
+      <change beforePath="$USER_HOME$/PycharmProjects/MYLIB2/Dataformats_tools/WFDB/WFDB_RW.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/MYLIB2/Dataformats_tools/WFDB/WFDB_RW.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/MYLIB2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2n6vsbr2FGiONhFplEA939uQEGP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Create arrhytmias research table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Create late potentials data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Create_AVG_QRS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ECGNETtrain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FinalNetArchitectures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FinalNetTrain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GenerateDataForFInalNet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GenerateDataforClasicNet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GenerateTrainData (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.GenerateTrainData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GenerateTrainData2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Generate_Train_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GennerateDataForClassicNet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GennerateTrainTestDtaDf (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.GennerateTrainTestDtaDf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Normalise_Data_Number (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Normalise_Data_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlotStatistics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SiamseNetForTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.SiamseNetForTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p0Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p2ActivationFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plotTrainCurve.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ptools.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tools.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Bases/AF detection&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AntuanO_\03 Аспирантура\5 семестр\Arrhythmya detection NN system article\d1Research\Art2Code" />
+      <recent name="D:\AntuanO_\03 Аспирантура\5 семестр\Arrhythmya detection NN system article\d1Research\d0DbPreoaration\Code\TestSIamseNetworkOnQRScomplexes\Art2TestNN\trainDAta" />
+      <recent name="D:\AntuanO_\03 Аспирантура\5 семестр\Arrhythmya detection NN system article\d1Research\d0DbPreoaration\Code\TestSIamseNetworkOnQRScomplexes\Art2TestNN" />
+      <recent name="D:\AntuanO_\03 Аспирантура\5 семестр\Arrhythmya detection NN system article\d1Research\d0DbPreoaration\Code\NNstruct_with_changeble_activation_functions_develop\0test_method\changebleAFNNstruct" />
+      <recent name="D:\AntuanO_\03 Аспирантура\5 семестр\Arrhythmya detection NN system article\d1Research\d0DbPreoaration\Code\NNstruct_with_changeble_activation_functions_develop\0test_method\changebleAFNNstruct\FINAL_NET" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main2">
+    <configuration name="ECGNETtrain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1Research" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d0DbPreoaration/Code/TestSIamseNetworkOnQRScomplexes/Art2TestNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d0DbPreoaration/Code/TestSIamseNetworkOnQRScomplexes/Art2TestNN/ECGNETtrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GennerateTrainTestDtaDf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1Research" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d0DbPreoaration/Code/NNstruct_with_changeble_activation_functions_develop/0test_method/changebleAFNNstruct/FINAL_NET" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d0DbPreoaration/Code/NNstruct_with_changeble_activation_functions_develop/0test_method/changebleAFNNstruct/FINAL_NET/GennerateTrainTestDtaDf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SiamseNetForTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1Research" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d0DbPreoaration/Code/TestSIamseNetworkOnQRScomplexes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d0DbPreoaration/Code/TestSIamseNetworkOnQRScomplexes/SiamseNetForTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1Research" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d0DbPreoaration/Code/NNstruct_with_changeble_activation_functions_develop/0test_method/changebleAFNNstruct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d0DbPreoaration/Code/NNstruct_with_changeble_activation_functions_develop/0test_method/changebleAFNNstruct/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p0Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1Research" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d0DbPreoaration/Code/NNstruct_with_changeble_activation_functions_develop/0test_method/changebleAFNNstruct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d0DbPreoaration/Code/NNstruct_with_changeble_activation_functions_develop/0test_method/changebleAFNNstruct/p0Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main2" />
+        <item itemvalue="Python.p0Main" />
+        <item itemvalue="Python.GennerateTrainTestDtaDf" />
+        <item itemvalue="Python.SiamseNetForTest" />
+        <item itemvalue="Python.ECGNETtrain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18e7d2bf-4c98-4e29-a98e-fccf74211d6f" name="Changes" comment="" />
+      <created>1728306548204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728306548204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

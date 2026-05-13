@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Elnano conference.iml" filepath="$PROJECT_DIR$/.idea/Elnano conference.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MYLIB2/.idea/MYLIB2.iml" filepath="$USER_HOME$/PycharmProjects/MYLIB2/.idea/MYLIB2.iml" />
+    </modules>
+  </component>
+</project>

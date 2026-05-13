@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90e87e02-95fa-4793-8d40-af360d13dfe7" name="Changes" comment="some testing added algo correction developed">
+      <change beforePath="$PROJECT_DIR$/../MYLIB2/Dataformats_tools/WFDB/WFDB_RW.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MYLIB2/Dataformats_tools/WFDB/WFDB_RW.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mr-cyberdron&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9106e5aa-0980-4834-8724-90c07c257ddc" />
+        <option name="url" value="https://github.com/mr-cyberdron/Wavelet_Mod1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2e53P4sQ60jDD1NZraVd9bVq7Ku" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_Prep_avg_qrs (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Prep_avg_qrs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Prep_avg_qrs_withVLP_and_store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_test_Resnet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Amp_correction_coefs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Artifitial_signal_creation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CWT_basis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CWT_mod0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CWTwiki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CWTwiki2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Customize_Algo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cwt_test_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ICWTtest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prep_avg_qrs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.algotest1 real signal plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculation graph creation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cwt_pywavelets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cwt_scipy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cwt_test1_artif_LP_sig (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.cwt_test_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cwt_test_waw_sig.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot fscale.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time-freq_methods comparsion (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.time-freq_methods comparsion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tmp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AntuanO_/03 Аспирантура/5 семестр/Дисертація/Дослідження/Частини/ч3/Перевірка/new/Після семінару+скорочення/скорочення/test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mrinb\PycharmProjects\wavemod1\CWT_modifications\TestNN" />
+      <recent name="C:\Users\mrinb\PycharmProjects\wavemod1\CWT_modifications\test_signals" />
+      <recent name="C:\Users\mrinb\PycharmProjects\wavemod1\CWT_modifications" />
+      <recent name="C:\Users\mrinb\PycharmProjects\wavemod1\CWT reconstruction v2\lib1test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrinb\PycharmProjects\wavemod1\CWT_modifications" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.02_Prep_avg_qrs_withVLP_and_store">
+    <configuration name="01_Prep_avg_qrs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wavemod1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CWT_modifications/TestNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CWT_modifications/TestNN/01_Prep_avg_qrs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_Prep_avg_qrs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wavemod1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CWT_modifications/TestNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mrinb\PycharmProjects\wavemod1\CWT_modifications\TestNN\01_Prep_avg_qrs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_Prep_avg_qrs_withVLP_and_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wavemod1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CWT_modifications/TestNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CWT_modifications/TestNN/02_Prep_avg_qrs_withVLP_and_store.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_test_Resnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wavemod1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CWT_modifications/TestNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CWT_modifications/TestNN/03_test_Resnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="algotest1 real signal plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wavemod1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CWT_modifications" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CWT_modifications/algotest1 real signal plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02_Prep_avg_qrs_withVLP_and_store" />
+        <item itemvalue="Python.algotest1 real signal plot" />
+        <item itemvalue="Python.03_test_Resnet" />
+        <item itemvalue="Python.01_Prep_avg_qrs (1)" />
+        <item itemvalue="Python.01_Prep_avg_qrs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90e87e02-95fa-4793-8d40-af360d13dfe7" name="Changes" comment="" />
+      <created>1711180584412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711180584412</updated>
+    </task>
+    <task id="LOCAL-00001" summary="some data added, wiki algo noted in notebook">
+      <option name="closed" value="true" />
+      <created>1712963454627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712963454627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some data added, wiki algo noted in notebook">
+      <option name="closed" value="true" />
+      <created>1712972760352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712972760352</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add scales to freqs transformation">
+      <option name="closed" value="true" />
+      <created>1713158740007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713158740007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Base features done">
+      <option name="closed" value="true" />
+      <created>1713419394071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713419394071</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Base features done">
+      <option name="closed" value="true" />
+      <created>1713419445455</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713419445455</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add file">
+      <option name="closed" value="true" />
+      <created>1713488960790</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713488960790</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fluctuations by noise fix using mean removal and normalisation update">
+      <option name="closed" value="true" />
+      <created>1713771996679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713771996680</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some testing added algo correction developed">
+      <option name="closed" value="true" />
+      <created>1714358991321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714358991321</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some data added, wiki algo noted in notebook" />
+    <MESSAGE value="add scales to freqs transformation" />
+    <MESSAGE value="Base features done" />
+    <MESSAGE value="add file" />
+    <MESSAGE value="fluctuations by noise fix using mean removal and normalisation update" />
+    <MESSAGE value="some testing added algo correction developed" />
+    <option name="LAST_COMMIT_MESSAGE" value="some testing added algo correction developed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CWT_modifications/Artifitial_signal_creation.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

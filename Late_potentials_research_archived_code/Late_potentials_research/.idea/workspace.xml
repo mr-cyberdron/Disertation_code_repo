@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1e614dd-9a0e-458d-8abf-7e40b8505719" name="Changes" comment="Changes_for_investigation">
+      <change beforePath="$PROJECT_DIR$/Analyse_databases/01_Create_classification_table_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Analyse_databases/01_Create_classification_table_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analyse_databases/Pdf_report_creator_by_plot_ecg_record.py" beforeDir="false" afterPath="$PROJECT_DIR$/Analyse_databases/Pdf_report_creator_by_plot_ecg_record.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analyse_databases/ptb-diagnostic-ecg-database-1.0.0_logfile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Analyse_databases/ptb-diagnostic-ecg-database-1.0.0_logfile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features_and_low_amplitude_components_testing/Method1_cardiocycles_averaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/Features_and_low_amplitude_components_testing/Method1_cardiocycles_averaging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYLIB2/BIOMED_SIGNALS/ECG/class_record.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MYLIB2/BIOMED_SIGNALS/ECG/class_record.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../MYLIB2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/pypoetry/Cache/virtualenvs/late-potentials-research-dFhzTpcJ-py3.11/Lib/site-packages/neurokit2/ecg/ecg_segment.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/AppData/Local/pypoetry/Cache/virtualenvs/late-potentials-research-dFhzTpcJ-py3.11/Lib/site-packages/neurokit2/epochs/epochs_create.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JColZvQ0pgJEZI3WZURs4nzRXV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pp/Desktop&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pp\PycharmProjects\MYLIB2\BIOMED_SIGNALS\ECG" />
+      <recent name="C:\Users\pp\PycharmProjects\Late_potentials_research\Analyse_databases\modules" />
+      <recent name="C:\Users\pp\PycharmProjects\MYLIB2" />
+      <recent name="C:\Users\pp\PycharmProjects\MYLIB2\Dataformats_tools" />
+      <recent name="C:\Users\pp\PycharmProjects\MYLIB2\Frequency_tools\Filtering" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pp\PycharmProjects\MYLIB2\Dataformats_tools" />
+      <recent name="C:\Users\pp\PycharmProjects\Late_potentials_research\Analyse_databases\modules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Method1_cardiocycles_averaging">
+    <configuration name="01_Create_classification_table_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Late_potentials_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analyse_databases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analyse_databases/01_Create_classification_table_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculate_datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Late_potentials_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Create simple late potentials database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Create simple late potentials database/Calculate_datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Method1_cardiocycles_averaging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Late_potentials_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Features_and_low_amplitude_components_testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Features_and_low_amplitude_components_testing/Method1_cardiocycles_averaging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pdf_report_creator_by_plot_ecg_record" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Late_potentials_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analyse_databases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analyse_databases/Pdf_report_creator_by_plot_ecg_record.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_machine_learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Late_potentials_research" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Create simple late potentials database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Create simple late potentials database/run_machine_learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.01_Create_classification_table_main" />
+      <item itemvalue="Python.Calculate_datasets" />
+      <item itemvalue="Python.Method1_cardiocycles_averaging" />
+      <item itemvalue="Python.Pdf_report_creator_by_plot_ecg_record" />
+      <item itemvalue="Python.run_machine_learning" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Method1_cardiocycles_averaging" />
+        <item itemvalue="Python.01_Create_classification_table_main" />
+        <item itemvalue="Python.Pdf_report_creator_by_plot_ecg_record" />
+        <item itemvalue="Python.run_machine_learning" />
+        <item itemvalue="Python.Calculate_datasets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e614dd-9a0e-458d-8abf-7e40b8505719" name="Changes" comment="" />
+      <created>1671591578313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671591578313</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added changes for pdf report for validation creation">
+      <created>1673415628988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673415628988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="signal averaged ECG flow optimisation">
+      <created>1674606093426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674606093426</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Optimisations for multi base processing">
+      <created>1674743250589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674743250589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added UI selector and created pdf report generator by UI selector">
+      <created>1675124649897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675124649897</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes_for_investigation">
+      <created>1684767308329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684767308329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added changes for pdf report for validation creation" />
+    <MESSAGE value="signal averaged ECG flow optimisation" />
+    <MESSAGE value="Optimisations for multi base processing" />
+    <MESSAGE value="Added UI selector and created pdf report generator by UI selector" />
+    <MESSAGE value="Changes_for_investigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes_for_investigation" />
+  </component>
+</project>
